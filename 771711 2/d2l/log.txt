@@ -1,0 +1,79 @@
+stream https://learn.snhu.edu/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=771711&contextId=771711&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\index.html
+stream https://learn.snhu.edu/d2l/common/layout/renderThemeCss.d2l?ou=6606&tid=106989&tou=6606&v=20.23.2.16271
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\common\layout\1.css
+stream https://learn.snhu.edu/d2l/ep/common/static/js/ep_namespaces.js?v=20.23.2.16271&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\common\static\js\2.js
+stream https://learn.snhu.edu/d2l/ep/common/static/js/ep_enums.js?v=20.23.2.16271&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\common\static\js\3.js
+stream https://learn.snhu.edu/d2l/ep/common/static/js/ep_common.js?v=20.23.2.16271&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\common\static\js\4.js
+stream https://learn.snhu.edu/d2l/eP/artifacts/static/js/viewArtifact.js?v=20.23.2.16271&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\artifacts\static\js\5.js
+stream https://learn.snhu.edu/d2l/eP/common/static/js/comments_area.js?v=20.23.2.16271&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\common\static\js\6.js
+stream https://learn.snhu.edu/d2l/eP/common/static/js/comments_common.js?v=20.23.2.16271&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\common\static\js\7.js
+stream https://learn.snhu.edu/d2l/eP/common/static/js/exploring_popups.js?v=20.23.2.16271&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\common\static\js\8.js
+stream https://learn.snhu.edu/d2l/eP/artifacts/static/js/viewForm.js?v=20.23.2.16271&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\artifacts\static\js\9.js
+stream https://learn.snhu.edu/d2l/eP/artifacts/static/js/viewLEArtifact.js?v=20.23.2.16271&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\artifacts\static\js\10.js
+stream https://learn.snhu.edu/d2l/ep/presentations/viewprofileimage.d2l?oi=6606&ui=124799&contextId=771711&s=100&Offline=2
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\presentations\11.d2limage
+stream https://learn.snhu.edu/d2l/img/0/eP.Common.iconArtifactURL_36.gif?v=20.23.2.16271
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\img\0\12.gif
+stream https://learn.snhu.edu/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=771711&contextId=771711&pageId=216665&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\presentations\13.html
+stream https://learn.snhu.edu/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=771711&contextId=771711&pageId=218158&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\presentations\14.html
+stream https://learn.snhu.edu/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=771711&contextId=771711&pageId=218159&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\presentations\15.html
+stream https://learn.snhu.edu/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=771711&contextId=771711&pageId=218160&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\presentations\16.html
+stream https://learn.snhu.edu/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=771711&contextId=771711&pageId=218161&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\presentations\17.html
+stream https://learn.snhu.edu/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=771711&contextId=771711&pageId=218162&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\presentations\18.html
+stream https://learn.snhu.edu/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=771711&contextId=771711&pageId=218163&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\presentations\19.html
+stream https://learn.snhu.edu/d2l/eP/presentations/review/review_artifact.d2l?artId=770400&presId=771711&compId=1276815&layoutId=216664&pageId=216664&contextId=770400,771711&ou=6606&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\presentations\review\20.html
+stream https://learn.snhu.edu/d2l/common/viewFile.d2lfile/Database/ODQ3MDM5OTk/page.jpg?ou=6606
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\presentations\ODQ3MDM5OTk\page.jpg
+stream https://learn.snhu.edu/d2l/common/viewFile.d2lfile/Database/ODQ3MDQwMDA/banner.jpg?ou=6606
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\presentations\ODQ3MDQwMDA\banner.jpg
+stream https://learn.snhu.edu/d2l/eP/presentations/presentation_preview_popup.d2l?ou=6606&presId=771711&contextId=771711&pageId=216664&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\presentations\21.html
+stream https://learn.snhu.edu/d2l/eP/artifacts/context_artifact_stream.d2lFile?ou=6606&contextId=784751,771711&width=200&Offline=2
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\artifacts\22.d2lFile
+stream https://learn.snhu.edu/d2l/img/0/eP.Common.iconArtifactGenericFile_36.gif?v=20.23.2.16271
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\img\0\23.gif
+stream https://learn.snhu.edu/d2l/common/viewFile.d2lfile/Database/ODc1NTU5NzI/Final%20Milestone%20IT-320.docx?ou=6606&contextId=778129,771711
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\presentations\ODc1NTU5NzI\Final Milestone IT-320.docx
+stream https://learn.snhu.edu/d2l/eP/artifacts/context_artifact_stream.d2lFile?ou=6606&contextId=784752,771711&width=200&Offline=2
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\artifacts\24.d2lFile
+stream https://learn.snhu.edu/d2l/common/viewFile.d2lfile/Database/ODc1NTQ5NjM/Project_Mgt_Final_Project%20IT-328.docx?ou=6606&contextId=778127,771711
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\presentations\ODc1NTQ5NjM\Project_Mgt_Final_Project IT-328.docx
+stream https://learn.snhu.edu/d2l/eP/artifacts/context_artifact_stream.d2lFile?ou=6606&contextId=784753,771711&width=200&Offline=2
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\artifacts\25.d2lFile
+stream https://learn.snhu.edu/d2l/common/viewFile.d2lfile/Database/ODc2MjIxNzc/Final%20Project%20two.docx?ou=6606&contextId=778360,771711
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\presentations\ODc2MjIxNzc\Final Project two.docx
+stream https://learn.snhu.edu/d2l/common/viewFile.d2lfile/Database/ODc2MjIzODI/Milestone%20Two%20420-3.docx?ou=6606&contextId=778364,771711
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\presentations\ODc2MjIzODI\Milestone Two 420-3.docx
+stream https://learn.snhu.edu/d2l/eP/artifacts/context_artifact_stream.d2lFile?ou=6606&contextId=784754,771711&width=200&Offline=2
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\artifacts\26.d2lFile
+stream https://learn.snhu.edu/d2l/common/viewFile.d2lfile/Database/ODc2MjMzNTA/WWC%20Final%20IT-335.docx?ou=6606&contextId=778130,771711
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\presentations\ODc2MjMzNTA\WWC Final IT-335.docx
+stream https://learn.snhu.edu/d2l/eP/artifacts/context_artifact_stream.d2lFile?ou=6606&contextId=784755,771711&width=200&Offline=2
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\artifacts\27.d2lFile
+stream https://learn.snhu.edu/d2l/common/viewFile.d2lfile/Database/ODc1NTQ1Mzc/Final%20Milestone%20IT%20412%20risk.docx?ou=6606&contextId=778122,771711
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\presentations\ODc1NTQ1Mzc\Final Milestone IT 412 risk.docx
+stream https://learn.snhu.edu/d2l/eP/artifacts/context_artifact_stream.d2lFile?ou=6606&contextId=784756,771711&width=200&Offline=2
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\artifacts\28.d2lFile
+stream https://learn.snhu.edu/d2l/common/viewFile.d2lfile/Database/ODc1NTczNTE/Milestone%20Two%20420-2.docx?ou=6606&contextId=778134,771711
+binary \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\ep\presentations\ODc1NTczNTE\Milestone Two 420-2.docx
+stream https://learn.snhu.edu/d2l/eP/presentations/presentation_preview_popup.d2l?presId=771711&pageId=216664&contextId=771711&ou=6606&Offline=2
+text   \\fs-snhu\temp\snhu\056\c5b11bb7e6054d3fac95c24dc709ab9b\package\771711\d2l\eP\presentations\29.html
+Took 0:14 minutes (14.7924055 seconds)
